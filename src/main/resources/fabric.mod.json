@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Applesauce",
-  "description": "A simple Minecraft mod that adds applesauce",
+  "description": "A simple Minecraft mod that adds applesauce, an item which provides an easy to obtain early-game boost in an attempt to aid new players along their journey.\n",
   "authors": [
     "Daxanius"
   ],
